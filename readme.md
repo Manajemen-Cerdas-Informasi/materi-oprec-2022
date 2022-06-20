@@ -15,3 +15,6 @@ Berikut adalah daftar calon admin MCI:
 4. Alfin Indrawan [Github](https://github.com/AlfinIndrawan), [Linkedin](https://www.linkedin.com/in/alfinindrawan/), [Medium](https://medium.com/@alfinindrawan)
 5.
 6. Reyner Fernaldi, [Github](https://github.com/reynerfernaldi)
+7. 
+8. .
+9. Anggito Anju Hartawan Manalu - [Github](https://github.com/Anggito02), [LinkedIn](https://www.linkedin.com/in/anggitoanjuhartawanmanalu)
