@@ -9,6 +9,6 @@ _NB: boleh mencantumkan link github / linkedin / medium dll_
 
 Berikut adalah daftar calon admin MCI:
 1. Amanda Rozi Kurnia, [Github](https://github.com/yoursemicolon)
-2. Alfin Indrawan [Github](https://github.com/AlfinIndrawan), [Linkedin](https://www.linkedin.com/in/alfinindrawan/)
+2. Alfin Indrawan [Github](https://github.com/AlfinIndrawan), [Linkedin](https://www.linkedin.com/in/alfinindrawan/), [Medium](https://medium.com/@alfinindrawan)
 3. ...
 4. ...
