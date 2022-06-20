@@ -8,7 +8,7 @@ Gunakan format berikut:
 _NB: boleh mencantumkan link github / linkedin / medium dll_
 
 Berikut adalah daftar calon admin MCI:
-1. Amanda Rozi Kurnia, [Github](https://github.com/yoursemicolon)
-2. Angela Oryza Prabowo, [LinkedIn](https://www.linkedin.com/in/angela-oryza-351644214/)
-3. ...
-4. ...
+1. 
+2. 
+3. Angela Oryza Prabowo, [LinkedIn](https://www.linkedin.com/in/angela-oryza-351644214/)
+4. 
