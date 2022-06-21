@@ -8,6 +8,7 @@ Gunakan format berikut:
 _NB: boleh mencantumkan link github / linkedin / medium dll_
 
 Berikut adalah daftar calon admin MCI:
+
 1. Rafiqi Rachmat, [Github](https://github.com/akunlainfiqi), [LinkedIn](https://www.linkedin.com/in/rafiqirpw/)
 2. Muhammad Damas Abhirama, [Github](https://github.com/abhiramadamas), [LinkedIn](https://www.linkedin.com/in/muhammad-damas-abhirama-19495b206/)
 3. Angela Oryza Prabowo, [Github](https://github.com/angelaoryza),[LinkedIn](https://www.linkedin.com/in/angela-oryza-351644214/)
@@ -18,3 +19,4 @@ Berikut adalah daftar calon admin MCI:
 8. Abidjannna Zulfa Hamdika [Github](https://github.com/hufahamdika), [LinkedIn](https://www.linkedin.com/in/abidjannazulfahamdika/), [Medium](https://medium.com/@hansenidden18/extracting-word-embedding-sentence-embedding-from-bert-for-twitter-sentiment-analysis-d728696df8e0)
 9. Muhammad Ismail, [Github](https://github.com/mail2418), [LinkedIn](https://www.linkedin.com/in/muhammad-2418-ismail/), [kaggle](https://www.kaggle.com/mail2418)
 10. Anggito Anju Hartawan Manalu [Github](https://github.com/Anggito02), [LinkedIn](https://www.linkedin.com/in/anggitoanjuhartawanmanalu)
+11. Selomita Zhafiirah, [Linkedin](https://www.linkedin.com/in/selomita-zhafiirah-b275371ba/)
