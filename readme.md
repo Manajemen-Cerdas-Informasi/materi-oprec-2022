@@ -15,3 +15,4 @@ Berikut adalah daftar calon admin MCI:
 5. Zahra Fayyadiyati, [Github](https://github.com/zahrafayya), [LinkedIn](https://www.linkedin.com/in/zahra-fayyadiyati/)
 6. Reyner Fernaldi, [Github](https://github.com/reynerfernaldi)
 7. Fayyadh Hafizh, [Github](https://github.com/fydhfzh)
+8. Abidjannna Zulfa Hamdika [Github](https://github.com/hufahamdika), [LinkedIn](https://www.linkedin.com/in/abidjannazulfahamdika/), [Medium](https://medium.com/@hansenidden18/extracting-word-embedding-sentence-embedding-from-bert-for-twitter-sentiment-analysis-d728696df8e0)
