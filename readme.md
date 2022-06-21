@@ -20,3 +20,4 @@ Berikut adalah daftar calon admin MCI:
 9. Muhammad Ismail, [Github](https://github.com/mail2418), [LinkedIn](https://www.linkedin.com/in/muhammad-2418-ismail/), [kaggle](https://www.kaggle.com/mail2418)
 10. Anggito Anju Hartawan Manalu [Github](https://github.com/Anggito02), [LinkedIn](https://www.linkedin.com/in/anggitoanjuhartawanmanalu)
 11. Selomita Zhafiirah, [Linkedin](https://www.linkedin.com/in/selomita-zhafiirah-b275371ba/)
+12. Kurnia Cahya Febryanto [Github](https://github.com/kurniacf), [LinkedIn](https://www.linkedin.com/in/kurnia-cahya-febryanto/), [Medium](https://medium.com/@kurniacf), [Devpost](https://devpost.com/kurniacf?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
