@@ -24,3 +24,4 @@ Berikut adalah daftar calon admin MCI:
 13. M Labib Alfaraby, [Github](https://github.com/labibs30), [LinkedIn](https://www.linkedin.com/in/m-labib-alfaraby-a514b9202/)
 14. Naily Khairiya, [Github](https://github.com/nailykhry)
 15. Surya Abdillah, [Github](https://github.com/surya-abd)
+16. Rycahaya Sri Hutomo, [Github](https://github.com/rycahayash), [LinkedIn](https://www.linkedin.com/in/rycahaya-sri-hutomo-1983b9221/)
