@@ -22,5 +22,8 @@ Berikut adalah daftar calon admin MCI:
 11. Selomita Zhafiirah, [Linkedin](https://www.linkedin.com/in/selomita-zhafiirah-b275371ba/)
 12. Kurnia Cahya Febryanto [Github](https://github.com/kurniacf), [LinkedIn](https://www.linkedin.com/in/kurnia-cahya-febryanto/), [Medium](https://medium.com/@kurniacf), [Devpost](https://devpost.com/kurniacf?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 13. M Labib Alfaraby, [Github](https://github.com/labibs30), [LinkedIn](https://www.linkedin.com/in/m-labib-alfaraby-a514b9202/)
-14. Immanuel Maruli Tua Pardede, [GitHub](https://github.com/immanuelmtpardede), [LinkedIn](https://www.linkedin.com/in/immanuel-maruli-tua-pardede-4819891a7/)
+14. Naily Khairiya, [Github](https://github.com/nailykhry)
+15. Surya Abdillah, [Github](https://github.com/surya-abd)
+16. Achmad Ferdiansyah, [Github](https://github.com/Ferdi761)
+17. Immanuel Maruli Tua Pardede, [GitHub](https://github.com/immanuelmtpardede), [LinkedIn](https://www.linkedin.com/in/immanuel-maruli-tua-pardede-4819891a7/)
 
