@@ -26,4 +26,6 @@ Berikut adalah daftar calon admin MCI:
 14. Naily Khairiya, [Github](https://github.com/nailykhry)
 15. Surya Abdillah, [Github](https://github.com/surya-abd)
 16. Achmad Ferdiansyah, [Github](https://github.com/Ferdi761)
-17. Monica Narda Davita, [Github](https://github.com/MonicaDavita), [Linkedin](https://www.linkedin.com/in/monica-davita/)
+17. Muhammad Daffa Aldriantama, [LinkedIn](https://www.linkedin.com/in/mdaffaaldriantama/)
+18. Immanuel Maruli Tua Pardede, [GitHub](https://github.com/immanuelmtpardede), [LinkedIn](https://www.linkedin.com/in/immanuel-maruli-tua-pardede-4819891a7/)
+19. Monica Narda Davita, [Github](https://github.com/MonicaDavita), [Linkedin](https://www.linkedin.com/in/monica-davita/)
