@@ -27,3 +27,4 @@ Berikut adalah daftar calon admin MCI:
 15. Surya Abdillah, [Github](https://github.com/surya-abd)
 16. Achmad Ferdiansyah, [Github](https://github.com/Ferdi761)
 17. Muhammad Daffa Aldriantama, [LinkedIn](https://www.linkedin.com/in/mdaffaaldriantama/)
+18. Immanuel Maruli Tua Pardede, [GitHub](https://github.com/immanuelmtpardede), [LinkedIn](https://www.linkedin.com/in/immanuel-maruli-tua-pardede-4819891a7/)
