@@ -29,3 +29,4 @@ Berikut adalah daftar calon admin MCI:
 17. Muhammad Daffa Aldriantama, [LinkedIn](https://www.linkedin.com/in/mdaffaaldriantama/)
 18. Immanuel Maruli Tua Pardede, [GitHub](https://github.com/immanuelmtpardede), [LinkedIn](https://www.linkedin.com/in/immanuel-maruli-tua-pardede-4819891a7/)
 19. Monica Narda Davita, [Github](https://github.com/MonicaDavita), [Linkedin](https://www.linkedin.com/in/monica-davita/)
+19. Cindi Dwi Pramudita, [Github](https://github.com/cindidwipramudita), [Linkedin](https://www.linkedin.com/in/cindi-dwi-pramudita-2b4a68195/)
