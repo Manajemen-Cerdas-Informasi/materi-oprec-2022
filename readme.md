@@ -31,3 +31,4 @@ Berikut adalah daftar calon admin MCI:
 19. Monica Narda Davita, [Github](https://github.com/MonicaDavita), [Linkedin](https://www.linkedin.com/in/monica-davita/)
 20. Rycahaya Sri Hutomo, [Github](https://github.com/rycahayash), [LinkedIn](https://www.linkedin.com/in/rycahaya-sri-hutomo-1983b9221/)
 21. Tegar Ganang Satrio Priambodo, [Github](https://github.com/tegar-ganang), [Linkedin](https://www.linkedin.com/in/tegar-ganang-satrio-priambodo/)
+22. Cindi Dwi Pramudita, [Github](https://github.com/cindidwipramudita), [LinkedIn](https://www.linkedin.com/in/cindi-dwi-pramudita-2b4a68195/)
