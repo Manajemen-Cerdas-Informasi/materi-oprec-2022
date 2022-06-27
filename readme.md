@@ -34,3 +34,4 @@ Berikut adalah daftar calon admin MCI:
 22. Cindi Dwi Pramudita, [Github](https://github.com/cindidwipramudita), [LinkedIn](https://www.linkedin.com/in/cindi-dwi-pramudita-2b4a68195/)
 23. Maheswara Danendra Satriananda, [Instagram](https://www.instagram.com/p/B-9aRuWJI5W2XECVjbazTQE13rsXJVhI8HG_sE0/), [Github](https://github.com/Mahes-wara)
 24. Azzura Ferliani Ramadhani, [Github](https://github.com/azzuraf), [LinkedIn](https://www.linkedin.com/in/azzura-ferliani-ramadhani/)
+25. Daniel Hermawan, [Github](https://github.com/danielhermawan02), [LinkedIn](https://www.linkedin.com/in/daniel-hermawan-a59581214/), [Datacamp](https://intip.in/DatacampDaniel)
